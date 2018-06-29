@@ -1,0 +1,7 @@
+C:\Users\tomt\Google Drive\Intec Opleiding .NET\C# GEVORDERD\OEFENINGEN\ParkingPatrick\ParkingPatrick\bin\Debug\ParkingPatrick.exe.config
+C:\Users\tomt\Google Drive\Intec Opleiding .NET\C# GEVORDERD\OEFENINGEN\ParkingPatrick\ParkingPatrick\bin\Debug\ParkingPatrick.exe
+C:\Users\tomt\Google Drive\Intec Opleiding .NET\C# GEVORDERD\OEFENINGEN\ParkingPatrick\ParkingPatrick\bin\Debug\ParkingPatrick.pdb
+C:\Users\tomt\Google Drive\Intec Opleiding .NET\C# GEVORDERD\OEFENINGEN\ParkingPatrick\ParkingPatrick\obj\Debug\ParkingPatrick.csprojResolveAssemblyReference.cache
+C:\Users\tomt\Google Drive\Intec Opleiding .NET\C# GEVORDERD\OEFENINGEN\ParkingPatrick\ParkingPatrick\obj\Debug\ParkingPatrick.csproj.CoreCompileInputs.cache
+C:\Users\tomt\Google Drive\Intec Opleiding .NET\C# GEVORDERD\OEFENINGEN\ParkingPatrick\ParkingPatrick\obj\Debug\ParkingPatrick.exe
+C:\Users\tomt\Google Drive\Intec Opleiding .NET\C# GEVORDERD\OEFENINGEN\ParkingPatrick\ParkingPatrick\obj\Debug\ParkingPatrick.pdb
